@@ -5,8 +5,8 @@
 	"version_id": 1000070,
 	"version_string": "1.0.0",
   "dev": "z1729 Factory",
-  "dev_url": "https://github.com/marketplace-xenforo/xenforo-ext-metatag",
-  "support_url": "https://github.com/marketplace-xenforo/xenforo-ext-metatag/issues",
+  "dev_url": "https://github.com/pkgstore/xenforo-ext-metatag",
+  "support_url": "https://github.com/pkgstore/xenforo-ext-metatag/issues",
 	"require": {
 		"XF": [
 			2010070,
